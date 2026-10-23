@@ -1,0 +1,304 @@
+{
+  "status": "reviewed_with_limitations",
+  "date": "2026-10-22",
+  "prices_sha256": "8f8d5583916268555b64439f08844fb56d200181d7f167d01f68e4c8e09494e2",
+  "source_files": [
+    {
+      "name": "navhist-us-en-xlb.xlsx",
+      "url": "https://www.ssga.com/library-content/products/fund-data/etfs/us/navhist-us-en-xlb.xlsx",
+      "sha256": "b3c10443092a993dfe8618d0acd82901df9e61fee8651ebca86dc6e4ae2487e2",
+      "checked_utc": "2026-10-22T18:03:20.040715+00:00"
+    },
+    {
+      "name": "navhist-us-en-xle.xlsx",
+      "url": "https://www.ssga.com/library-content/products/fund-data/etfs/us/navhist-us-en-xle.xlsx",
+      "sha256": "46bd9daa9317de4f3e350b76275f0125a127a12cbb6e22d2401f0f8dce15cab8",
+      "checked_utc": "2026-10-22T18:03:20.041238+00:00"
+    },
+    {
+      "name": "navhist-us-en-xlf.xlsx",
+      "url": "https://www.ssga.com/library-content/products/fund-data/etfs/us/navhist-us-en-xlf.xlsx",
+      "sha256": "ac31abc5dc4e0f2ad9b52d60c43b7e1de8b16f001110450d41bfc16b681565e7",
+      "checked_utc": "2026-10-22T18:03:20.041177+00:00"
+    },
+    {
+      "name": "navhist-us-en-xli.xlsx",
+      "url": "https://www.ssga.com/library-content/products/fund-data/etfs/us/navhist-us-en-xli.xlsx",
+      "sha256": "422ddbfcb655a69ca891a8b5be0ee2b1ff153abb36645a47644d8bc1ab385d8c",
+      "checked_utc": "2026-10-22T18:03:20.042022+00:00"
+    },
+    {
+      "name": "navhist-us-en-xlk.xlsx",
+      "url": "https://www.ssga.com/library-content/products/fund-data/etfs/us/navhist-us-en-xlk.xlsx",
+      "sha256": "12e2ba2c94b8288e20ced4c3ad057ad4f5739fb9155f0acd664f71cb76a9072c",
+      "checked_utc": "2026-10-22T18:03:20.041659+00:00"
+    },
+    {
+      "name": "navhist-us-en-xlp.xlsx",
+      "url": "https://www.ssga.com/library-content/products/fund-data/etfs/us/navhist-us-en-xlp.xlsx",
+      "sha256": "fb75c50910d6b2c73e3fb67cdddcd4b96e7e81ceef05e1a1b0437dd552da5615",
+      "checked_utc": "2026-10-22T18:03:20.041704+00:00"
+    },
+    {
+      "name": "navhist-us-en-xlu.xlsx",
+      "url": "https://www.ssga.com/library-content/products/fund-data/etfs/us/navhist-us-en-xlu.xlsx",
+      "sha256": "dee1493368655f39792b8ed2c47d63bf5c7b5bbb0f3a3e5027f4c3c570f66e46",
+      "checked_utc": "2026-10-22T18:03:20.041908+00:00"
+    },
+    {
+      "name": "navhist-us-en-xlv.xlsx",
+      "url": "https://www.ssga.com/library-content/products/fund-data/etfs/us/navhist-us-en-xlv.xlsx",
+      "sha256": "aa64eef41fd7331958ef837f20c7861d71e4cfcc7e77c5c40525c49bf515ed72",
+      "checked_utc": "2026-10-22T18:03:20.041954+00:00"
+    },
+    {
+      "name": "navhist-us-en-xly.xlsx",
+      "url": "https://www.ssga.com/library-content/products/fund-data/etfs/us/navhist-us-en-xly.xlsx",
+      "sha256": "a2a7cea127a8379c6585053bd9cdf91efe04bcfdb059e29cabb072d33a3b4108",
+      "checked_utc": "2026-10-22T18:03:20.042395+00:00"
+    },
+    {
+      "name": "navhist-us-en-xlre.xlsx",
+      "url": "https://www.ssga.com/library-content/products/fund-data/etfs/us/navhist-us-en-xlre.xlsx",
+      "sha256": "1791686e1e4733c81e8cf8333e4d9250371a6434a353e650576e0abde5e6b4e1",
+      "checked_utc": "2026-10-22T18:03:20.042297+00:00"
+    },
+    {
+      "name": "spdr-etf-historical-distributions.xlsx",
+      "url": "https://www.ssga.com/library-content/products/fund-data/etfs/us/spdr-etf-historical-distributions.xlsx",
+      "sha256": "6b65cbf956b5d25705d08470006a0e97e6a7d2a0d5cfd08b63f6f79783b06320",
+      "checked_utc": "2026-10-22T18:03:20.043075+00:00"
+    }
+  ],
+  "calendar_checks": [
+    {
+      "ticker": "XLB",
+      "price_dates": 5535,
+      "issuer_nav_only_closed_dates": [
+        "2012-10-29",
+        "2012-10-30",
+        "2014-04-18"
+      ],
+      "unexplained_missing": 0,
+      "unexplained_extra": 0
+    },
+    {
+      "ticker": "XLE",
+      "price_dates": 5535,
+      "issuer_nav_only_closed_dates": [
+        "2012-10-29",
+        "2012-10-30",
+        "2014-04-18"
+      ],
+      "unexplained_missing": 0,
+      "unexplained_extra": 0
+    },
+    {
+      "ticker": "XLF",
+      "price_dates": 5535,
+      "issuer_nav_only_closed_dates": [
+        "2012-10-29",
+        "2012-10-30",
+        "2014-04-18"
+      ],
+      "unexplained_missing": 0,
+      "unexplained_extra": 0
+    },
+    {
+      "ticker": "XLI",
+      "price_dates": 5535,
+      "issuer_nav_only_closed_dates": [
+        "2012-10-29",
+        "2012-10-30",
+        "2014-04-18"
+      ],
+      "unexplained_missing": 0,
+      "unexplained_extra": 0
+    },
+    {
+      "ticker": "XLK",
+      "price_dates": 5535,
+      "issuer_nav_only_closed_dates": [
+        "2012-10-29",
+        "2012-10-30",
+        "2014-04-18"
+      ],
+      "unexplained_missing": 0,
+      "unexplained_extra": 0
+    },
+    {
+      "ticker": "XLP",
+      "price_dates": 5535,
+      "issuer_nav_only_closed_dates": [
+        "2012-10-29",
+        "2012-10-30",
+        "2014-04-18"
+      ],
+      "unexplained_missing": 0,
+      "unexplained_extra": 0
+    },
+    {
+      "ticker": "XLU",
+      "price_dates": 5535,
+      "issuer_nav_only_closed_dates": [
+        "2012-10-29",
+        "2012-10-30",
+        "2014-04-18"
+      ],
+      "unexplained_missing": 0,
+      "unexplained_extra": 0
+    },
+    {
+      "ticker": "XLV",
+      "price_dates": 5535,
+      "issuer_nav_only_closed_dates": [
+        "2012-10-29",
+        "2012-10-30",
+        "2014-04-18"
+      ],
+      "unexplained_missing": 0,
+      "unexplained_extra": 0
+    },
+    {
+      "ticker": "XLY",
+      "price_dates": 5535,
+      "issuer_nav_only_closed_dates": [
+        "2012-10-29",
+        "2012-10-30",
+        "2014-04-18"
+      ],
+      "unexplained_missing": 0,
+      "unexplained_extra": 0
+    }
+  ],
+  "event_checks": {
+    "xlf_2016_special": {
+      "xlre_shares_per_xlf": 0.139146,
+      "same_day_issuer_nav_total_return": 0.005827130565860372,
+      "provider_adjusted_return": 0.006376089651858541,
+      "difference_basis_points": 5.489590859981686
+    },
+    "xle_2020_03_09": {
+      "issuer_nav_return": -0.20186492545712753,
+      "provider_adjusted_return": -0.2014118013924826,
+      "difference_basis_points": 4.531240646449275
+    }
+  },
+  "split_checks": [
+    {
+      "ticker": "XLB",
+      "date": "2025-12-05",
+      "ratio": 2,
+      "issuer_nav_return": -0.00288289073614878,
+      "provider_adjusted_return": -0.003277931468616213
+    },
+    {
+      "ticker": "XLE",
+      "date": "2025-12-05",
+      "ratio": 2,
+      "issuer_nav_return": -0.004000877742978082,
+      "provider_adjusted_return": -0.004120528128054635
+    },
+    {
+      "ticker": "XLK",
+      "date": "2025-12-05",
+      "ratio": 2,
+      "issuer_nav_return": 0.007529048057354215,
+      "provider_adjusted_return": 0.007317863036455874
+    },
+    {
+      "ticker": "XLU",
+      "date": "2025-12-05",
+      "ratio": 2,
+      "issuer_nav_return": -0.009419350361312473,
+      "provider_adjusted_return": -0.009379862016024365
+    },
+    {
+      "ticker": "XLY",
+      "date": "2025-12-05",
+      "ratio": 2,
+      "issuer_nav_return": 0.005480563606122146,
+      "provider_adjusted_return": 0.005542958005292142
+    }
+  ],
+  "ordinary_distribution_checks": [
+    {
+      "ticker": "XLF",
+      "date": "2019-12-20",
+      "issuer_cash": 0.156292,
+      "provider_same_share_basis_cash": 0.156,
+      "absolute_difference_dollars": 0.0002919999999999867
+    },
+    {
+      "ticker": "XLF",
+      "date": "2023-12-18",
+      "issuer_cash": 0.183501,
+      "provider_same_share_basis_cash": 0.184,
+      "absolute_difference_dollars": 0.0004989999999999994
+    },
+    {
+      "ticker": "XLF",
+      "date": "2025-12-22",
+      "issuer_cash": 0.190771,
+      "provider_same_share_basis_cash": 0.191,
+      "absolute_difference_dollars": 0.00022900000000000698
+    },
+    {
+      "ticker": "XLE",
+      "date": "2019-12-20",
+      "issuer_cash": 0.593348,
+      "provider_same_share_basis_cash": 0.593,
+      "absolute_difference_dollars": 0.00034800000000001496
+    },
+    {
+      "ticker": "XLE",
+      "date": "2023-12-18",
+      "issuer_cash": 0.802139,
+      "provider_same_share_basis_cash": 0.802,
+      "absolute_difference_dollars": 0.00013900000000000023
+    },
+    {
+      "ticker": "XLE",
+      "date": "2025-12-22",
+      "issuer_cash": 0.373015,
+      "provider_same_share_basis_cash": 0.373,
+      "absolute_difference_dollars": 1.4999999999987246e-05
+    },
+    {
+      "ticker": "XLK",
+      "date": "2019-12-20",
+      "issuer_cash": 0.294666,
+      "provider_same_share_basis_cash": 0.295,
+      "absolute_difference_dollars": 0.00033400000000000096
+    },
+    {
+      "ticker": "XLK",
+      "date": "2023-12-18",
+      "issuer_cash": 0.422014,
+      "provider_same_share_basis_cash": 0.422,
+      "absolute_difference_dollars": 1.4000000000014001e-05
+    },
+    {
+      "ticker": "XLK",
+      "date": "2025-12-22",
+      "issuer_cash": 0.218827,
+      "provider_same_share_basis_cash": 0.219,
+      "absolute_difference_dollars": 0.00017300000000000648
+    }
+  ],
+  "xlf_2016_annual_comparison": {
+    "year": 2016,
+    "provider_price_proxy": 0.2241518042141648,
+    "issuer_nav_ex_date_reinvestment_reconstruction": 0.2265879477725301,
+    "issuer_prospectus_return": 0.2269,
+    "interpretation": "Different price and reinvestment conventions; not exact independent market-close replication."
+  },
+  "decision": "Retain the original provider adjusted-close proxy unchanged. Selected independent checks corroborate events and calendar; carry provider/convention limitations into the research findings.",
+  "limits": [
+    "Not an independent replication of every daily exchange closing price.",
+    "XLF spin-off uses a provider split-style proxy for reinvestment; no extra distribution is added.",
+    "Issuer NAV returns and market-close adjusted returns differ, especially during stress.",
+    "The issuer and reconstructed XLF annual returns do not match exactly; no claim of exact reconciliation is made.",
+    "Cash-distribution values are not identical across providers; rounding/convention differences remain."
+  ]
+}

@@ -1,0 +1,5 @@
+PASS: all 12 full-period NAV paths reconcile to an independent fixed-unit holdings calculation.
+Maximum absolute NAV difference: 2.2293278334473143e-13
+PASS: every saved target uses the declared number of past observations and executes after its signal date.
+PASS: original price snapshot hash unchanged.
+No strategy choices were changed after the final period was opened.

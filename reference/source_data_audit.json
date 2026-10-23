@@ -1,0 +1,164 @@
+{
+  "source": "Yahoo Finance chart endpoint; provider adjusted closes not independently certified",
+  "tickers": [
+    {
+      "ticker": "XLB",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/XLB?period1=1072915200&period2=1767225600&interval=1d&events=div%2Csplits&includeAdjustedClose=true",
+      "retrieved_utc": "2026-10-20T22:05:03.102047+00:00",
+      "sha256": "36d0ece9567df9736beed405393968c73d4a83265331c3eb85edb3fa36542370",
+      "rows": 5535,
+      "missing": 0,
+      "duplicate_dates": 0,
+      "nonpositive": 0,
+      "first": "2004-01-02",
+      "last": "2025-12-31",
+      "currency": "USD",
+      "action_types": [
+        "dividends",
+        "splits"
+      ]
+    },
+    {
+      "ticker": "XLE",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/XLE?period1=1072915200&period2=1767225600&interval=1d&events=div%2Csplits&includeAdjustedClose=true",
+      "retrieved_utc": "2026-10-20T22:05:03.245368+00:00",
+      "sha256": "2ad9a4e13a3b40e312e290a274afebe60d5af92025cddd10cd811fbec85f453e",
+      "rows": 5535,
+      "missing": 0,
+      "duplicate_dates": 0,
+      "nonpositive": 0,
+      "first": "2004-01-02",
+      "last": "2025-12-31",
+      "currency": "USD",
+      "action_types": [
+        "dividends",
+        "splits"
+      ]
+    },
+    {
+      "ticker": "XLF",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/XLF?period1=1072915200&period2=1767225600&interval=1d&events=div%2Csplits&includeAdjustedClose=true",
+      "retrieved_utc": "2026-10-20T22:05:02.970954+00:00",
+      "sha256": "72594317ecccba6d1325b97a4b280b37eeac0e9ea927f38b722625bae1cf2f9d",
+      "rows": 5535,
+      "missing": 0,
+      "duplicate_dates": 0,
+      "nonpositive": 0,
+      "first": "2004-01-02",
+      "last": "2025-12-31",
+      "currency": "USD",
+      "action_types": [
+        "dividends",
+        "splits"
+      ]
+    },
+    {
+      "ticker": "XLI",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/XLI?period1=1072915200&period2=1767225600&interval=1d&events=div%2Csplits&includeAdjustedClose=true",
+      "retrieved_utc": "2026-10-20T22:05:07.821338+00:00",
+      "sha256": "7f5eae51eff2becc1504642329226e2d5e4bdfc83a2ed299f3313f1bb4f6faa8",
+      "rows": 5535,
+      "missing": 0,
+      "duplicate_dates": 0,
+      "nonpositive": 0,
+      "first": "2004-01-02",
+      "last": "2025-12-31",
+      "currency": "USD",
+      "action_types": [
+        "dividends"
+      ]
+    },
+    {
+      "ticker": "XLK",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/XLK?period1=1072915200&period2=1767225600&interval=1d&events=div%2Csplits&includeAdjustedClose=true",
+      "retrieved_utc": "2026-10-20T22:05:07.777980+00:00",
+      "sha256": "665379a2207ee21c4068f9c90469b927c2a4c9a3d4889307c46e8e7f73110225",
+      "rows": 5535,
+      "missing": 0,
+      "duplicate_dates": 0,
+      "nonpositive": 0,
+      "first": "2004-01-02",
+      "last": "2025-12-31",
+      "currency": "USD",
+      "action_types": [
+        "dividends",
+        "splits"
+      ]
+    },
+    {
+      "ticker": "XLP",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/XLP?period1=1072915200&period2=1767225600&interval=1d&events=div%2Csplits&includeAdjustedClose=true",
+      "retrieved_utc": "2026-10-20T22:05:07.690543+00:00",
+      "sha256": "6e04041acea287fc348f3fad771b3d593d7d0e20682b12cc263f5847e7b6a9b2",
+      "rows": 5535,
+      "missing": 0,
+      "duplicate_dates": 0,
+      "nonpositive": 0,
+      "first": "2004-01-02",
+      "last": "2025-12-31",
+      "currency": "USD",
+      "action_types": [
+        "dividends"
+      ]
+    },
+    {
+      "ticker": "XLU",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/XLU?period1=1072915200&period2=1767225600&interval=1d&events=div%2Csplits&includeAdjustedClose=true",
+      "retrieved_utc": "2026-10-20T22:05:12.452795+00:00",
+      "sha256": "e78be9547c7173e5a48c5be89146df87fdcbfb3de1caa50c99277746c58d8a9a",
+      "rows": 5535,
+      "missing": 0,
+      "duplicate_dates": 0,
+      "nonpositive": 0,
+      "first": "2004-01-02",
+      "last": "2025-12-31",
+      "currency": "USD",
+      "action_types": [
+        "dividends",
+        "splits"
+      ]
+    },
+    {
+      "ticker": "XLV",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/XLV?period1=1072915200&period2=1767225600&interval=1d&events=div%2Csplits&includeAdjustedClose=true",
+      "retrieved_utc": "2026-10-20T22:05:12.352108+00:00",
+      "sha256": "1ed90dcecd411e03e5a93bcf623c901f4b5bc1459ab35dbf366865485d543c49",
+      "rows": 5535,
+      "missing": 0,
+      "duplicate_dates": 0,
+      "nonpositive": 0,
+      "first": "2004-01-02",
+      "last": "2025-12-31",
+      "currency": "USD",
+      "action_types": [
+        "dividends"
+      ]
+    },
+    {
+      "ticker": "XLY",
+      "url": "https://query1.finance.yahoo.com/v8/finance/chart/XLY?period1=1072915200&period2=1767225600&interval=1d&events=div%2Csplits&includeAdjustedClose=true",
+      "retrieved_utc": "2026-10-20T22:05:12.370194+00:00",
+      "sha256": "e054ad67944fa2deec6b66773084dd197ea5ac9214a2621a2adad2761a4427eb",
+      "rows": 5535,
+      "missing": 0,
+      "duplicate_dates": 0,
+      "nonpositive": 0,
+      "first": "2004-01-02",
+      "last": "2025-12-31",
+      "currency": "USD",
+      "action_types": [
+        "dividends",
+        "splits"
+      ]
+    }
+  ],
+  "common_rows": 5535,
+  "large_return_flags": [
+    {
+      "ticker": "XLE",
+      "date": "2020-03-09",
+      "adjusted_return": -0.2014118013924826
+    }
+  ],
+  "status": "Basic structural checks passed. Corporate-action and independent-price audit still pending. No backtest run."
+}

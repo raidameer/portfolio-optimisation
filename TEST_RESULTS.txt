@@ -1,0 +1,22 @@
+test_buy_and_hold_matches_fixed_units (test_backtest.AccountingTests.test_buy_and_hold_matches_fixed_units) ... ok
+test_cost_does_not_change_relative_holdings (test_backtest.AccountingTests.test_cost_does_not_change_relative_holdings) ... ok
+test_daily_drift (test_backtest.AccountingTests.test_daily_drift) ... ok
+test_drawdown_includes_opening_capital (test_backtest.AccountingTests.test_drawdown_includes_opening_capital) ... ok
+test_execution_day_uses_old_holdings (test_backtest.AccountingTests.test_execution_day_uses_old_holdings) ... ok
+test_initial_and_round_trip_costs (test_backtest.AccountingTests.test_initial_and_round_trip_costs) ... ok
+test_segment_uses_previous_nav (test_backtest.AccountingTests.test_segment_uses_previous_nav) ... ok
+test_trade_cost_formula (test_backtest.AccountingTests.test_trade_cost_formula) ... ok
+test_turnover_uses_drifted_weights (test_backtest.AccountingTests.test_turnover_uses_drifted_weights) ... ok
+test_analytical_solution_and_scale (test_backtest.AllocationTests.test_analytical_solution_and_scale) ... ok
+test_boundary_solution (test_backtest.AllocationTests.test_boundary_solution) ... ok
+test_equal_risk_symmetry (test_backtest.AllocationTests.test_equal_risk_symmetry) ... ok
+test_invalid_covariance_rejected (test_backtest.AllocationTests.test_invalid_covariance_rejected) ... ok
+test_shrinkage_constraints (test_backtest.AllocationTests.test_shrinkage_constraints) ... ok
+test_full_pipeline_uses_fictional_data_for_holdout_branch (test_backtest.CompleteStudyTests.test_full_pipeline_uses_fictional_data_for_holdout_branch) ... ok
+test_future_changes_cannot_change_earlier_decision (test_backtest.TimingTests.test_future_changes_cannot_change_earlier_decision) ... ok
+test_windows_share_the_same_start (test_backtest.TimingTests.test_windows_share_the_same_start) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 6.093s
+
+OK

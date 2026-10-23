@@ -1,0 +1,37 @@
+{
+  "freeze_date": "2026-10-22",
+  "methods": [
+    "Equal weight",
+    "Sample minimum variance",
+    "Shrinkage minimum variance"
+  ],
+  "lookback_days": [
+    252,
+    504
+  ],
+  "costs_bps": [
+    0,
+    5
+  ],
+  "code_sha256": "e79963a576098fd308a75ea71b4e5ec3bdbd53ab7df292e913eb8d75fbe896ce",
+  "tests_sha256": "a032f46616b2eeb2509e972e7350ee3ba09325425e2932dd7c5ef9db96bd25d8",
+  "prices_sha256": "8f8d5583916268555b64439f08844fb56d200181d7f167d01f68e4c8e09494e2",
+  "tests_passed": 17,
+  "actual_development_period": "2006-02-01 through 2019-12-31",
+  "actual_holdout_strategy_performance_opened": false,
+  "holdout_pipeline_tested_with": "Fictional prices only",
+  "remaining_research": [
+    "Independent corporate-action and daily price/calendar reconciliation",
+    "Run frozen real 2020-2025 evaluation",
+    "Student review and final interpretation"
+  ],
+  "pre_final_evaluation_review": {
+    "date": "2026-10-22",
+    "data_review_status": "Selected issuer checks completed; retain explicit provider/convention limitations.",
+    "strategy_methods_changed": false,
+    "prices_changed": false,
+    "change_since_first_freeze": "Reporting now reads the independent audit status and formats console percentages; allocation, timing, costs and metric formulas unchanged.",
+    "current_code_sha256": "991ef57ba33a4aaebef65158f0c8f008a3b1a92905f4312276bca631b95b40e8",
+    "final_evaluation_opened_at_this_checkpoint": false
+  }
+}
